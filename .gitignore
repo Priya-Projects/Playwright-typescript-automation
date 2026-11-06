@@ -1,0 +1,9 @@
+node_modules/
+playwright-report/
+test-results/
+e2e/
+tests/example.spec.ts
+tests/firsttest.spec.ts
+tests/forgotPassword.spec.ts
+tests/logintests.spec.ts
+test/services.spec.ts
